@@ -1,0 +1,21 @@
+body {
+    background-color:bisque;
+}
+h1{
+    text-align:center;
+}
+nav {
+    text-align:center;
+}
+img {
+     animation: moveRight 3s forwards;
+}
+h1{
+    text-decoration:double underline;
+}
+
+   
+
+div{
+    text-align:center;
+}
